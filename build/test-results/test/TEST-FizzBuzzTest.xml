@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-10-14T09:41:48" hostname="sammyK-MBP.mshome.net" time="0.044">
+  <properties/>
+  <testcase name="testPostiveIntegerReturnBuzz()" classname="FizzBuzzTest" time="0.023"/>
+  <testcase name="testPostiveIntegerReturnFizz()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="testNegativeIntegerReturnBuzz()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="testNegativeIntegerReturnFizz()" classname="FizzBuzzTest" time="0.002"/>
+  <testcase name="testIntegerNotDivisibleBy3AND5()" classname="FizzBuzzTest" time="0.002"/>
+  <testcase name="testNegativeIntegerReturnFizzBuzz()" classname="FizzBuzzTest" time="0.002"/>
+  <testcase name="testPostiveIntegerReturnFizzBuzz()" classname="FizzBuzzTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
